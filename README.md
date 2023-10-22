@@ -8,10 +8,10 @@ A simple tool used to calculate the tip amount to be paid after a restaurant or 
 
 <table>
   <tr>
-    <td><img src="Screenshot1.png" alt="Main 1" width="216" height="384"></td>
-    <td><img src="Screenshot2.png" alt="Main 2" width="216" height="384"></td>
-    <td><img src="Screenshot3.png" alt="Main 3" width="216" height="384"></td>
-    <td><img src="Screenshot4.png" alt="Main 4" width="216" height="384"></td>
+    <td><img src="Screenshot_1.png" alt="Main 1" width="216" height="384"></td>
+    <td><img src="Screenshot_2.png" alt="Main 2" width="216" height="384"></td>
+    <td><img src="Screenshot_3.png" alt="Main 3" width="216" height="384"></td>
+    <td><img src="Screenshot_4.png" alt="Main 4" width="216" height="384"></td>
   </tr>
 </table>
 
